@@ -38,7 +38,7 @@ Two things to consider in branching are:
 
 ## add command
 | command |syntax |
-| ---:--- | ---:--- |
+| ------ | ------ |
 | 1| git add -A|
 |2|git add -u|
 |3|git add .|
